@@ -24,7 +24,7 @@ const Todo = () => {
     const addItems = () => {
         if(!inputdata)
         {
-            alert("Empty Data ")
+            alert("Empty hai")
         }
         else if(inputdata && toggleButton)
         {
